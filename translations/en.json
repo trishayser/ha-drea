@@ -1,0 +1,35 @@
+{
+  "title": "DREA",
+  "config": {
+    "step": {
+      "user": {
+        "title": "DREA",
+        "description": "Thanks for installing the DREA Integration. You can configure the Intergation in the Configuration"
+      }
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "DREA-Configuration",
+        "description": "Choose Entitys",
+        "data": {
+          "five_finger_opt": "5 Finger",
+          "four_finger_opt": "4 Finger",
+          "three_finger_opt": "3 Finger",
+          "two_finger_opt": "2 Finger"
+        }
+      },
+      "attribute": {
+        "title": "DREA-Configuration",
+        "description": "Choose Attributes",
+        "data": {
+          "five_finger_attr": "5 Finger",
+          "four_finger_attr": "4 Finger",
+          "three_finger_attr": "3 Finger",
+          "two_finger_attr": "2 Finger"
+        }
+      }
+    }
+  }
+}

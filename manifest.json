@@ -1,0 +1,15 @@
+{
+  "domain": "drea",
+  "name": "Drea",
+  "config_flow": true,
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": ["mqtt"],
+  "codeowners": [
+    "@trishouser"
+  ],
+  "iot_class": "local_polling",
+  "version": "0.1.0"
+}
